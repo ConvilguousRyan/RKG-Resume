@@ -133,7 +133,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	display: inline-block;
 	text-align: center;
 	margin-top: 0px;
-	padding-top: 3%;
+	padding-top: 1%;
 	cursor: pointer;
 }
 .mainContent .externalResourcesNav .externalResources:hover {
@@ -144,7 +144,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	color: rgba(255,255,255,1.00);
 	font-size: 14px;
 	font-weight: 400;
-	line-height: 18px;
+	line-height: 5px;
 	text-decoration: none;
 }
 .stretch {
